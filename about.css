@@ -1,0 +1,12 @@
+.table-full {
+  width: 100%;
+}
+
+.table-full th {
+  background-color: #eee;
+  font-weight: bold;
+}
+
+.history th:first-child {
+  width: 29%;
+}
